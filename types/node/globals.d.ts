@@ -266,7 +266,7 @@ declare namespace NodeJS {
         parent: Module | null | undefined;
         children: Module[];
         /**
-         * @since 11.14.0
+         * @since v11.14.0
          *
          * The directory name of the module. This is usually the same as the path.dirname() of the module.id.
          */
